@@ -9,20 +9,20 @@ The AI Club at the University of Arizona focuses on fostering innovation and lea
 ## Key Projects
 
 Explore our key projects and contributions:
-- **[AI Model Repository](https://github.com/uofa-ai-club/ai-model-repo):** A collection of AI models developed by our members.
-- **[Event Management System](https://github.com/uofa-ai-club/event-management):** Tools and systems for organizing and managing club events.
-- **[AI Workshops Materials](https://github.com/uofa-ai-club/workshop-materials):** Resources and materials from our workshops and seminars.
+- **[AI Model Repository]():** A collection of AI models developed by our members.
+- **[Event Management System]():** Tools and systems for organizing and managing club events.
+- **[AI Workshops Materials]():** Resources and materials from our workshops and seminars.
 
 ## Get Involved
 
-- **Join Us:** Interested in joining the AI Club? Check out our [website](https://www.uofa.edu/ai-club) for more information on how to become a member.
-- **Contribute:** We welcome contributions from everyone! If you’d like to contribute to our projects or suggest new ones, please see our [contribution guidelines](CONTRIBUTING.md).
-- **Contact Us:** For any inquiries or collaboration opportunities, email us at [ai-club@uofa.edu](mailto:ai-club@uofa.edu).
+- **Join Us:** Interested in joining the AI Club? Check out our [website](https://www.uaaiclub.com) for more information on how to become a member.
+- **Contact Us:** For any inquiries or collaboration opportunities, Contact us at [here](mailto:ai-club@uofa.edu).
 
 ## Stay Connected
 
-- **Discord:** Join our [Discord server](https://discord.gg/uofa-ai-club) to chat with club members and stay updated on our activities.
-- **Twitter:** Follow us on [Twitter](https://twitter.com/uofa_ai_club) for the latest news and updates.
+- **Discord:** Join our [Discord server]() to chat with club members and stay updated on our activities.
+- **Twitter:** Follow us on [Twitter]() for the latest news and updates.
+- **Youtube:** Subscribe to us on [YouTube]() for workshops created by professionals.
 
 Thank you for visiting our repository. We look forward to collaborating with you and exploring the world of AI together!
 
