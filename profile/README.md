@@ -1,4 +1,4 @@
-# University of Arizona AI Club
+# AI Club at University of Arizona 
 
 Welcome to the official repository of the University of Arizona AI Club! We are a passionate group of students dedicated to exploring and advancing the field of artificial intelligence through collaborative projects, research, and community engagement.
 
